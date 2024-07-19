@@ -4,7 +4,7 @@ This single app consist of 4 different apps.
 3. Notes
 4. Weather App
 This app is build using jetpack compose in kotlin language .
-The Main architecture of this app is Main-View-ViewModel(MVVM)
+The Main architecture of this app is Main-View-ViewModel(MVVM).
 In this app data is transferred between screen by using sharedviewModel.
 This app is build using different libraries such as -:
 1) Retrofit - For HTTPS  Request
