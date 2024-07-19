@@ -9,3 +9,4 @@ This app is build using different libraries such as -:
 1) Retrofit - For HTTPS  Request
 2) RoomDatabase - To Store data and it is a relational database
 3) Navigation - It helps to navigate from one Screen to another
+In this app data is transferred between screen by using sharedviewModel
