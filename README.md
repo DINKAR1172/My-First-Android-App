@@ -1,5 +1,5 @@
 This single app consist of 4 different apps.
-1. Shoping List
+1. Shopping List
 2. Todo List
 3. Notes
 4. Weather App
