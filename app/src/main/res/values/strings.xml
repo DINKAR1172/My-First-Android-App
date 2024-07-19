@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataShop</string>
+    <string name="ADD">"ADD Dialog"</string>
+    <string name="Update">"Update Dialog"</string>
+    <string name="Name">"New Name"</string>
+    <string name="Quantity">"New Quantity"</string>
+</resources>
